@@ -1,0 +1,11 @@
+{
+  "Postgres": {
+    "Host": "localhost",
+    "Port": 5432,
+    "User": "yushachkov",
+    "Password": "1234",
+    "Dbname": "levelzerodb"
+  }
+}
+
+
